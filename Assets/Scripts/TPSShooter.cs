@@ -93,7 +93,7 @@ public class TPSShooter : MonoBehaviour {
 				
 			}	
 		//	bullet_direction.z = 1;
-			print(bullet_direction);
+		//	print(bullet_direction);
 
 			
 	}
